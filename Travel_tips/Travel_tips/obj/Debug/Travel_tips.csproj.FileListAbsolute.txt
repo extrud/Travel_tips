@@ -15,3 +15,6 @@ C:\Users\fishkov\Documents\Visual Studio 2013\Projects\Travel_tips\Travel_tips\b
 C:\Users\fishkov\Documents\Visual Studio 2013\Projects\Travel_tips\Travel_tips\bin\Debug\GMap.NET.WindowsPresentation.dll
 C:\Users\fishkov\Documents\Visual Studio 2013\Projects\Travel_tips\Travel_tips\bin\Debug\GMap.NET.Core.xml
 C:\Users\fishkov\Documents\Visual Studio 2013\Projects\Travel_tips\Travel_tips\bin\Debug\GMap.NET.WindowsPresentation.xml
+C:\Users\fishkov\Desktop\git\Travel_tips\Travel_tips\bin\Debug\Travel_tips.exe.config
+C:\Users\fishkov\Desktop\git\Travel_tips\Travel_tips\obj\Debug\Travel_tips.exe
+C:\Users\fishkov\Desktop\git\Travel_tips\Travel_tips\obj\Debug\Travel_tips.pdb
