@@ -6,13 +6,21 @@ using System.Threading.Tasks;
 
 namespace Travel_tips
 {
-    class User
+    public class User
     {
         string name;
         string lastname;
         string birthday;
         int id;
         List<Path> Pathes = new List<Path>();
+
+        public User(string name, string lastname, string birthday, int id)
+        {
+            this.name = name;
+            this.lastname = lastname;
+            this.birthday = birthday;
+            this.id = id;
+        }
 
         public string Name
         {

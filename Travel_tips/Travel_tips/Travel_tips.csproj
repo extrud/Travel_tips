@@ -40,6 +40,10 @@
     <Reference Include="GMap.NET.WindowsPresentation">
       <HintPath>..\packages\GMap.NET.Presentation.1.7.1\lib\net40\GMap.NET.WindowsPresentation.dll</HintPath>
     </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.121.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.12.1.24160719\lib\net40\Oracle.ManagedDataAccess.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
@@ -59,6 +63,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="ContentInterface.cs" />
+    <Compile Include="ContentManger.cs" />
+    <Compile Include="Model.cs" />
+    <Compile Include="ModelView.cs" />
     <Compile Include="Path.cs" />
     <Compile Include="Travel_Point.cs" />
     <Compile Include="User.cs" />

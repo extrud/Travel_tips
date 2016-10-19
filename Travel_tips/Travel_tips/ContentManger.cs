@@ -8,6 +8,7 @@ namespace Travel_tips
 {
     public static class ContentManger
     {
+        
         public static User GetUser(int id)
         {
             return new User("Db not set","Db not set","Db not set",0);
