@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 using GMap.NET;
 namespace Travel_tips
 {
-    class Path
+    public class Path 
     {
+        string name;
         List<Travel_Point> points = new List<Travel_Point>();
         int id;
-
+        int raiting;
+        List<string> Comments = new List<string>();
         internal List<Travel_Point> Points
         {
             get { return points; }
@@ -18,13 +20,19 @@ namespace Travel_tips
         }
         string discription;
 
+        public Path(string name, int id, int raiting)
+        {
+            this.name = name;    
+            this.id = id;
+            this.raiting = raiting;
+        }
+
         public string Discription
         {
             get { return discription; }
             set { discription = value; }
         }
-        int raiting;
-        List<string> Comments = new List<string>();
+       
         public int Raiting
         {
             get { return raiting; }
@@ -34,5 +42,7 @@ namespace Travel_tips
         {
  
         }
+
+      
     }
 }
