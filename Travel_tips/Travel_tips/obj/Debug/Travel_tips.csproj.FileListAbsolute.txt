@@ -1,0 +1,17 @@
+C:\Users\fishkov\Documents\Visual Studio 2013\Projects\Travel_tips\Travel_tips\bin\Debug\Travel_tips.exe.config
+C:\Users\fishkov\Documents\Visual Studio 2013\Projects\Travel_tips\Travel_tips\bin\Debug\Travel_tips.exe
+C:\Users\fishkov\Documents\Visual Studio 2013\Projects\Travel_tips\Travel_tips\bin\Debug\Travel_tips.pdb
+C:\Users\fishkov\Documents\Visual Studio 2013\Projects\Travel_tips\Travel_tips\obj\Debug\Travel_tips.csprojResolveAssemblyReference.cache
+C:\Users\fishkov\Documents\Visual Studio 2013\Projects\Travel_tips\Travel_tips\obj\Debug\MainWindow.baml
+C:\Users\fishkov\Documents\Visual Studio 2013\Projects\Travel_tips\Travel_tips\obj\Debug\MainWindow.g.cs
+C:\Users\fishkov\Documents\Visual Studio 2013\Projects\Travel_tips\Travel_tips\obj\Debug\App.g.cs
+C:\Users\fishkov\Documents\Visual Studio 2013\Projects\Travel_tips\Travel_tips\obj\Debug\Travel_tips_MarkupCompile.cache
+C:\Users\fishkov\Documents\Visual Studio 2013\Projects\Travel_tips\Travel_tips\obj\Debug\Travel_tips.g.resources
+C:\Users\fishkov\Documents\Visual Studio 2013\Projects\Travel_tips\Travel_tips\obj\Debug\Travel_tips.Properties.Resources.resources
+C:\Users\fishkov\Documents\Visual Studio 2013\Projects\Travel_tips\Travel_tips\obj\Debug\Travel_tips.csproj.GenerateResource.Cache
+C:\Users\fishkov\Documents\Visual Studio 2013\Projects\Travel_tips\Travel_tips\obj\Debug\Travel_tips.exe
+C:\Users\fishkov\Documents\Visual Studio 2013\Projects\Travel_tips\Travel_tips\obj\Debug\Travel_tips.pdb
+C:\Users\fishkov\Documents\Visual Studio 2013\Projects\Travel_tips\Travel_tips\bin\Debug\GMap.NET.Core.dll
+C:\Users\fishkov\Documents\Visual Studio 2013\Projects\Travel_tips\Travel_tips\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\fishkov\Documents\Visual Studio 2013\Projects\Travel_tips\Travel_tips\bin\Debug\GMap.NET.Core.xml
+C:\Users\fishkov\Documents\Visual Studio 2013\Projects\Travel_tips\Travel_tips\bin\Debug\GMap.NET.WindowsPresentation.xml

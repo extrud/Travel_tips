@@ -1,0 +1,96 @@
+﻿<Window x:Class="Travel_tips.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:gm ="clr-namespace:GMap.NET.WindowsPresentation;assembly=GMap.NET.WindowsPresentation"
+        Title="Travel tips" Height="304.205" Width="522.819">
+    <Grid Name="main_grid">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50">
+
+            </RowDefinition>
+            <RowDefinition>
+
+            </RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition>
+
+            </ColumnDefinition>
+            <ColumnDefinition Width="300">
+
+            </ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <gm:GMapControl Zoom="15" MinZoom="3" MaxZoom="20"  Grid.Row="1" Loaded="GMapControl_Loaded" Name="gmap"></gm:GMapControl>
+        <Canvas Grid.Row="1">
+            <Button Width="30" Height="30" Canvas.Right="0" Click="Open_Panel_Click">-></Button>
+
+
+        </Canvas>
+
+        <StackPanel Grid.Column="1"  Grid.Row="1" Visibility="Hidden" Name="PathInfo">
+            <Label>Name:</Label>
+            <Label>Discrition:</Label>
+            <Label>Author:</Label>
+            <Label>Rating:</Label>
+            <Button>Report</Button>
+        </StackPanel>
+        <Grid Grid.Column="1" Grid.Row="1" Name="Serch" Visibility="Hidden">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100">
+
+                </RowDefinition>
+                <RowDefinition>
+
+                </RowDefinition>
+            </Grid.RowDefinitions>
+            <ListBox Grid.Row="1">
+                <ListBoxItem>
+                    Lol
+                </ListBoxItem>
+                <ListBoxItem>
+                    Lol
+                </ListBoxItem>
+                <ListBoxItem>
+                    Lol
+                </ListBoxItem>
+            </ListBox>
+        </Grid>
+        <Grid Grid.Column="1" Grid.Row="1" Name="User">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100">
+
+                </RowDefinition>
+                <RowDefinition>
+
+                </RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="94">
+
+                    </ColumnDefinition>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Column="1">
+                <Label>Name:</Label>
+                    <Label>LastName:</Label>
+                    <Label>Age:</Label>
+                    <Label>Intereses:</Label>
+                </StackPanel>
+            </Grid>
+            <ListBox Grid.Row="1">
+                <ListBoxItem>
+                    Lol
+                </ListBoxItem>
+                <ListBoxItem>
+                    Lol
+                </ListBoxItem>
+                <ListBoxItem>
+                    Lol
+                </ListBoxItem>
+            </ListBox>
+        </Grid>
+        <Image  Source="Tt.png" HorizontalAlignment="Left" Margin="10,0,0,0"/>
+
+    </Grid>
+</Window>
