@@ -35,3 +35,4 @@ C:\Users\POTEC\Desktop\GitTravelTips\Travel_tips\Travel_tips\Travel_tips\obj\Deb
 C:\Users\POTEC\Desktop\GitTravelTips\Travel_tips\Travel_tips\Travel_tips\obj\Debug\Travel_tips.g.resources
 C:\Users\POTEC\Desktop\GitTravelTips\Travel_tips\Travel_tips\Travel_tips\obj\Debug\Travel_tips.Properties.Resources.resources
 C:\Users\POTEC\Desktop\GitTravelTips\Travel_tips\Travel_tips\Travel_tips\obj\Debug\Travel_tips.csproj.GenerateResource.Cache
+C:\Users\POTEC\Desktop\GitTravelTips\Travel_tips\Travel_tips\Travel_tips\bin\Debug\Oracle.ManagedDataAccess.dll
