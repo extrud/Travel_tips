@@ -9,11 +9,11 @@ namespace Travel_tips
     public class Path 
     {
         string name;
-        List<Travel_Point> points = new List<Travel_Point>();
+        List<int> points = new List<int>(); //Их Айдишники
         int id;
         int raiting;
         List<string> Comments = new List<string>();
-        internal List<Travel_Point> Points
+        internal List<int> Points
         {
             get { return points; }
             set { points = value; }

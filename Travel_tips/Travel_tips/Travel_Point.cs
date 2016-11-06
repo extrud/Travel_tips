@@ -13,7 +13,8 @@ namespace Travel_tips
         PointLatLng point;
         string Discription_text;
         string Img;
-        public Travel_Point(PointLatLng point, string discription_text, string img, int pId)
+       
+        public Travel_Point(PointLatLng point, int pId, string discription_text=null, string img=null)
         {
             this.point = point;
             Discription_text = discription_text;
