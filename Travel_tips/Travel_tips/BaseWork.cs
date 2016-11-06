@@ -37,7 +37,18 @@ namespace Travel_tips
         {
             return null;
         }
-       
+        public static void CreatePath(Travel_Point[] points, int id, string pathname, string discription)
+        {
+        }
+        public static void DeletePath(int id)
+        {
+        }
+        public static void EneblePath(int id)
+        {
+        }
+        public static void DisablePath(int id)
+        {
+        }
 
     }
 }
